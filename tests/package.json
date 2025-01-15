@@ -7,10 +7,10 @@
     },
     "bin": "run-tests.js",
     "devDependencies": {
-        "chai": "^4.3.7",
-        "chai-as-promised": "^7.1.1",
+        "chai": "^4.5.0",
+        "chai-as-promised": "^7.1.2",
         "chai-bytes": "^0.1.2",
-        "mocha": "^10.1.0"
+        "mocha": "^11.0.1"
     },
     "dependencies": {
         "@ledgerhq/hw-transport-node-hid": "6.29.5",
