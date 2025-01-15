@@ -84,7 +84,7 @@ jobs:
           - SDK: "$STAX_SDK"
 
     container:
-      image: ghcr.io/ledgerhq/ledger-app-builder/ledger-app-builder-lite:latest
+      image: ghcr.io/ledgerhq/ledger-app-builder/ledger-app-builder-lite:3.42.0
 
     steps:
       - name: Clone
