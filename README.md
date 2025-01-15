@@ -1,6 +1,6 @@
 # Ledger Ergo Application
 
-This is a Ergo application for the Ledger Nano S+/X/Stax/Flex.
+This is a Ergo embedded application for the Ledger Nano S+/X/Stax/Flex.
 
 ## Prerequisite
 
